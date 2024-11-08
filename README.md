@@ -1,6 +1,6 @@
 # Caixeiro Viajante: Roteamento de veículos em São Paulo
 
-![image](https://github.com/user-attachments/assets/e41d4bf9-acc2-455d-8bf6-f7d947085221)
+<img src="https://github.com/user-attachments/assets/e41d4bf9-acc2-455d-8bf6-f7d947085221" alt="image" width="500" height="300">
 
 
 
